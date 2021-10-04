@@ -4,7 +4,7 @@
 - I have started working as support with interaction with users and their issues.
 - Next, I was C++/Qt and Python developer
 - And then, I granted more responsability in my team as QA and support leader 
-- This experiences gave me a global vision of the dev life cycle
+- This experiences gave me a global vision of the dev workflow
 
 - You can contact me directly on LinkedIn 📫
 
